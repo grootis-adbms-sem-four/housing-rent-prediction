@@ -17,7 +17,7 @@ Which involves creating a web app which is able to take inputs and predict house
 
 <a href="https://www.kaggle.com/saisaathvik/house-rent-prices-of-metropolitan-cities-in-india">Data Source</a>
 
-<a href="https://housing-rent-prediction-329110.el.r.appspot.com/">Web App</a>
+<a href="https://comfort-housing-329605.el.r.appspot.com/">Web App</a>
 
 Running the project on local machine <br>
 Step 1 - Clone the project <br>
