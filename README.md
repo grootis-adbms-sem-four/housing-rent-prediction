@@ -1,9 +1,10 @@
 # ml-project
 
 This is the github repository created for the Machine Learning project done by:
-1. Aayushmaan Jain
-2. Calvin Pinto
-3. Pratyush Patro
+1. <a href="mailto:jain.aayushmaan23@nmims.edu.in">Aayushmaan Jain</a>
+2. <a href="mailto:patro.pratyush51@nmims.edu.in">Pratyush Patro</a>
+3. <a href="mailto:pinto.calvin52@nmims.edu.in">Calvin Pinto</a>
+
 
 Which involves creating a web app which is able to take inputs and predict house prices in the following cities:
 1. Mumbai
